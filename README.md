@@ -24,11 +24,20 @@ This project implements a comprehensive traffic light control system for a four-
 -System status indicators
 
 ## Ladder Diagram
+<img src="https://github.com/Ahmed-Taha28/Traffic-light-control-system-for-a-plus-intersection-using-a-GEMO-PLC-controller/blob/main/images/Screenshot%202023-05-13%20132804.png" width="300">
 
-![image]()
+<img src="https://github.com/Ahmed-Taha28/Traffic-light-control-system-for-a-plus-intersection-using-a-GEMO-PLC-controller/blob/main/images/Screenshot%202023-05-13%20132939.png" width="300">
+
+<img src="https://github.com/Ahmed-Taha28/Traffic-light-control-system-for-a-plus-intersection-using-a-GEMO-PLC-controller/blob/main/images/Screenshot%202023-05-13%20133003.png" width="300">
 
 ## Visualization
 
-![image]()
+<img src="https://github.com/Ahmed-Taha28/Traffic-light-control-system-for-a-plus-intersection-using-a-GEMO-PLC-controller/blob/main/images/Visualization.jpg" width="400">
 
 ## Hardware 
+
+| Prototype | Connection | PLC | HW_Leds |
+| :---: | :---: | :---: | :---: |
+| <img src="https://github.com/Ahmed-Taha28/Traffic-light-control-system-for-a-plus-intersection-using-a-GEMO-PLC-controller/blob/main/images/Prototype.jpg" width="150"> | <img src="https://github.com/Ahmed-Taha28/Traffic-light-control-system-for-a-plus-intersection-using-a-GEMO-PLC-controller/blob/main/images/Connection.jpg" width="150"> | <img src="https://github.com/Ahmed-Taha28/Traffic-light-control-system-for-a-plus-intersection-using-a-GEMO-PLC-controller/blob/main/images/PLC.jpg" width="150"> | <img src="https://github.com/Ahmed-Taha28/Traffic-light-control-system-for-a-plus-intersection-using-a-GEMO-PLC-controller/blob/main/images/HW_Leds.jpg" width="150"> |
+
+
